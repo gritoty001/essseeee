@@ -1,2 +1,9 @@
 /**/
-
+h1{
+  color:red;
+}
+body{
+  color: violet;
+  font: 100pt;
+  font-family: 10pt;
+}
